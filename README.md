@@ -1,6 +1,6 @@
-<div align="center">
 
-<img src="profile.jpg" alt="Krishnpal Verma" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+
+
 
 # 👋 Hi, I'm Krishnpal Verma  
 ### Backend Developer | Java • Spring Boot • REST APIs • Microservices
