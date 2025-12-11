@@ -1,5 +1,11 @@
+<div align="center">
+
+<img src="profile.jpg" alt="Krishnpal Verma" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+
 # 👋 Hi, I'm Krishnpal Verma  
 ### Backend Developer | Java • Spring Boot • REST APIs • Microservices
+
+</div>
 
 I'm a backend developer who enjoys building secure, scalable, and clean backend systems using **Java, Spring Boot, REST APIs, JWT, and SQL databases**.  
 I’ve worked on real-world projects like **Online Job Portal** and **CivicPulse**, focusing on authentication, dashboards, role-based access, and microservice-style architecture.
@@ -40,18 +46,18 @@ I’ve worked on real-world projects like **Online Job Portal** and **CivicPulse
 ### 🔹 **Online Job Portal — Recruitment & Application System**
 **Tech:** Spring Boot, JWT, JPA, MySQL, Docker  
 - Built role-based dashboards for Admin, Recruiter, and Applicant.  
-- Implemented secure JWT authentication and session handling.  
+- Implemented JWT authentication & secure routes.  
 - Designed REST APIs for job posting, filtering, applying, and profile management.  
-- Reduced manual job-application coordination by **70%** through workflow automation.  
+- Automated workflow → reduced manual work by **70%**.  
 **Repo:** https://github.com/kpvmca/OnlineJobPortal
 
 ---
 
 ### 🔹 **CivicPulse — Community Issue Reporting Platform**
 **Tech:** Java, Spring Boot, SQL  
-- Built issue reporting system with user authentication and admin review dashboard.  
-- Implemented secure forms, status tracking, and data visualization components.  
-- Improved community reporting workflows by digitizing the process.  
+- Built user + admin dashboards  
+- Implemented status-based issue tracking  
+- Designed secure forms & backend API  
 **Repo:** https://github.com/Mohd-Inzamam/Civic-Pulse
 
 ---
@@ -81,12 +87,15 @@ I’ve worked on real-world projects like **Online Job Portal** and **CivicPulse
 ## 📫 Connect With Me
 
 📍 Indore, Madhya Pradesh  
-📧 Email: **krishnpalverma333@gmail.com**  
-📱 Phone: **+91 6262266191**  
-🐙 GitHub: https://github.com/kpvmca  
-🔗 LinkedIn: https://www.linkedin.com/in/  
+📧 **krishnpalverma333@gmail.com**  
+📱 **+91 6262266191**  
+🐙 GitHub → https://github.com/kpvmca  
+🔗 LinkedIn → https://www.linkedin.com/in/  
 
 ---
 
-### ⭐ If you like my work, consider giving my repositories a star!
+<div align="center">
+  
+⭐ *If you find my work helpful, consider giving my repositories a star!*
 
+</div>
