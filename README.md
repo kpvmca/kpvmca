@@ -9,7 +9,7 @@ MCA Student | Java Developer | Database & Web Fundamentals
 📞 +91-6262266191
 🔗 GitHub: https://github.com/kpvmca
 
-🔗 LinkedIn: https://www.linkedin.com/in/krishnpal-verma-525186297/
+🔗 LinkedIn: https://www.linkedin.com/in/krishnpal-verma-795b593a1/
 
 🧠 Professional Summary
 
